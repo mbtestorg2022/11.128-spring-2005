@@ -440,7 +440,7 @@ How Can Computers Substitute for/Complement Classroom Teachers? (Guest Lecture -
 {{< tdopen >}}
 
 
-Burstein, Jill, et al. "_Criterion_: Online Essay Evaluation: An Application for Automated Evaluation of Student Essays." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ets.org/Media/Research/pdf/erater_iaai03_burstein.pdf))
+Burstein, Jill, et al. "_Criterion_: Online Essay Evaluation: An Application for Automated Evaluation of Student Essays." ([PDF](http://www.ets.org/Media/Research/pdf/erater_iaai03_burstein.pdf))
 
 Roschelle, Jeremy, et al. "Changing How and What Children Learn in School with Computer Based Technologies." _Children and Computer Technology_ 10, no. 2 (Fall/Winter 2000): 76-101.
 
