@@ -4,6 +4,7 @@ description: The resource provides information about Expert Systems, Machine Lea
   Speech Recognition, and Machine Vision .
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-128-information-technology-and-the-labor-market-spring-2005/b144e9f32edde045655d0fc9b75fab85_week6.pdf
 file_type: application/pdf
+parent_uid: 9f3c0e7e-b83c-d5e6-510b-4e8f4823b1dc
 resourcetype: Document
 title: week6.pdf
 uid: b144e9f3-2edd-e045-655d-0fc9b75fab85
